@@ -78,6 +78,18 @@ a:hover {
 .center .placeholder-img {
 	margin: 0 auto 20px auto;
 }
+
+.img-large {
+	width: 200px;
+}
+
+.img-small {
+	width: 125px;
+	height: 125px;
+	margin: 10px 10px 10px 10px;
+	background: #f7f7f7;
+	border: 1px solid black !important;	
+}
 .left {
 	float: left;
 }
@@ -90,6 +102,7 @@ a:hover {
 .placeholder-img.left {
 	margin-left: 0;
 }
+
 .full-width {
 	width: 100%;
 }
