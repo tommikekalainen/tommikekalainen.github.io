@@ -1,0 +1,149 @@
+
+.logo {
+float: left;
+padding: 8px;
+
+}
+.border {
+	border: 1px solid black !important;
+}
+
+.center {
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 45px;
+	text-shadow: 1px 1px #33CCCC;
+	
+}
+
+h2 {
+	font-size: 22px;
+}
+
+p {
+	
+}
+
+header {
+	margin-bottom: 10px;
+}
+
+a {
+	transition: 1s;
+}
+
+a:hover {
+	color: #17a2b8;
+}
+
+}
+
+.row {
+	margin-bottom: 10px;
+}
+.mainheader {
+  height: 40vh;
+  min-height: 400px;
+  background-image: url('scuba-diving-79606.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.headerfont1 {
+	color: #33CCCC;
+	font-weight: bold;
+	text-shadow: 1px 1px #F8F8FF;
+	
+}
+
+.lead {
+	color: #CCCCCC;
+	text-shadow: 1px 1px #000000;
+}
+
+.placeholder-img {
+	width: 125px;
+	height: 125px;
+	margin: 10px 10px 10px 10px;
+	background: #f7f7f7;
+	border: 1px solid black !important;
+}
+.placeholder-img.large {
+	width: 200px;
+	height: 150px;
+}
+.center .placeholder-img {
+	margin: 0 auto 20px auto;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.placeholder-img.right {
+	margin-right: 0;
+}
+.placeholder-img.left {
+	margin-left: 0;
+}
+.full-width {
+	width: 100%;
+}
+
+.nav {
+
+}	
+.nav-link.active {
+	color: black;
+}
+
+section {
+	clear: both;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 70px;
+  height: 60px;
+  text-align: center;
+  text-decoration: none;
+  transition: 1s;
+}
+
+
+.fa:hover {
+  opacity: 0.5;
+}
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 4px;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  border-radius: 4px;
+}
+
+.fa-instagram {
+  background: #c32aa3;
+  color: white;
+  border-radius: 4px;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  border-radius: 4px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
