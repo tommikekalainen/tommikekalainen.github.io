@@ -23,6 +23,7 @@ h2 {
 }
 
 p {
+
 	
 }
 
@@ -38,15 +39,50 @@ a:hover {
 	color: #17a2b8;
 }
 
-}
-
 .row {
 	margin-bottom: 10px;
 }
-.mainheader {
-  height: 40vh;
+
+.homepage {
+  height: 60vh;
   min-height: 400px;
   background-image: url('scuba-diving-79606.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.secondpage {
+  height: 50vh;
+  min-height: 400px;
+  background-image: url('bubbles.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.thirdpage {
+  height: 50vh;
+  min-height: 400px;
+  background-image: url('clownfish.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fourthpage {
+  height: 50vh;
+  min-height: 400px;
+  background-image: url('turtle2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fifthpage {
+  height: 50vh;
+  min-height: 400px;
+  background-image: url('shark.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,8 +92,8 @@ a:hover {
 	color: #33CCCC;
 	font-weight: bold;
 	text-shadow: 1px 1px #F8F8FF;
-	
 }
+
 
 .lead {
 	color: #CCCCCC;
